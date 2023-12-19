@@ -1,5 +1,11 @@
 # Sales-Performance-Report 
 
+## Introduction 
+This report embarks on a journey into the heart of sales performance, utilizing the rich data landscape at our disposal. We seek to uncover valuable insights, unveil hidden trends, and equip ourselves with actionable recommendations to propel sales to new heights.
+
+## Tools Used 
+Microsoft Power BI 
+
 ## Problem Statements 
 Given the transactional Fact dataset (Orders) for a Super Store in the US with 2 dimension tables (Returns
 and Users), create a dashboard to narrate how well or how bad this superstore is doing across all possible
