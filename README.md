@@ -31,7 +31,7 @@ Top 5 records)
 
 
 
-## DASHBOARDS 
+## DASHBOARD
 ![SS1](https://github.com/Projects-Analysis/Sales-Performance-Report/assets/149543175/38d9ad24-012f-4c0f-b07f-925cbe3abd1b) 
 ![ss3](https://github.com/Projects-Analysis/Sales-Performance-Report/assets/149543175/79f62ec0-5cdd-4ff8-9ff9-86a0587bb9ef)
 
